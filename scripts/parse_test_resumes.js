@@ -40,19 +40,68 @@ const GITHUB_REGEX = /(?:https?:\/\/)?(?:www\.)?github\.com\/[a-zA-Z0-9_-]+\/?/g
 
 function extractName(text) {
   const lines = text.split('\n').map(line => line.trim()).filter(line => line.length > 0);
-  for (let i = 0; i < Math.min(lines.length, 6); i++) {
+  if (lines.length === 0) return 'Unknown Candidate';
+
+  // Pass 1: Scan first 10 lines for 2-4 capitalized or all-caps words
+  for (let i = 0; i < Math.min(lines.length, 10); i++) {
     const line = lines[i];
     const words = line.split(/\s+/);
     if (
       words.length >= 2 &&
       words.length <= 4 &&
-      words.every(w => /^[A-Z][a-zA-Z'-]*$/.test(w)) &&
+      words.every(w => /^[A-Z][a-zA-Z'-]*$|^[A-Z]+$/.test(w)) &&
       !/resume|cv|curriculum|profile|contact|portfolio|page|address|email|phone/i.test(line)
     ) {
       return line;
     }
   }
-  return lines[0] || 'Unknown Candidate';
+
+  // Pass 2: Anchor Scan. Locate the email/phone contact block in the text.
+  let contactLineIndex = -1;
+  const emailRegexLocal = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/;
+  const phoneRegexLocal = /(?:\+?\d{1,3}[-.\s]?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}\b/;
+
+  for (let i = 0; i < lines.length; i++) {
+    if (emailRegexLocal.test(lines[i]) || phoneRegexLocal.test(lines[i])) {
+      contactLineIndex = i;
+      break;
+    }
+  }
+
+  if (contactLineIndex > 0) {
+    // Check up to 2 lines above the contact block
+    for (let offset = 1; offset <= 2; offset++) {
+      const idx = contactLineIndex - offset;
+      if (idx >= 0) {
+        const line = lines[idx];
+        const words = line.split(/\s+/);
+        if (
+          words.length >= 2 &&
+          words.length <= 4 &&
+          words.every(w => /^[A-Z][a-zA-Z'-]*$|^[A-Z]+$/.test(w)) &&
+          !/resume|cv|curriculum|profile|contact|portfolio|page|address|email|phone/i.test(line)
+        ) {
+          return line;
+        }
+      }
+    }
+  }
+
+  // Pass 3: Fallback first short line in the first 5 lines (no digits, no @)
+  for (let i = 0; i < Math.min(lines.length, 5); i++) {
+    const line = lines[i];
+    if (
+      line.length > 3 &&
+      line.length < 35 &&
+      !/@/.test(line) &&
+      !/\d/.test(line) &&
+      !/resume|cv|curriculum|email|phone|contact/i.test(line)
+    ) {
+      return line;
+    }
+  }
+
+  return 'Candidate ' + Math.floor(1000 + Math.random() * 9000);
 }
 
 function extractEmail(text) {
