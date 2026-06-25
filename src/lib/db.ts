@@ -1,6 +1,7 @@
 import { createClient } from '@supabase/supabase-js';
 import fs from 'fs';
 import path from 'path';
+import os from 'os';
 
 export interface Candidate {
   id: string;
@@ -31,12 +32,33 @@ export const supabase = isSupabaseConfigured
   ? createClient(supabaseUrl!, supabaseAnonKey!)
   : null;
 
-const MOCK_DB_PATH = path.join(process.cwd(), 'mock_db.json');
+const isServerless = !!(
+  process.env.AWS_LAMBDA_FUNCTION_NAME ||
+  process.env.LAMBDA_TASK_ROOT ||
+  process.env.AWS_EXECUTION_ENV ||
+  process.env.VERCEL ||
+  process.env.AMPLIFY_BUILD_ID
+);
+
+const MOCK_DB_PATH = isServerless
+  ? path.join(os.tmpdir(), 'mock_db.json')
+  : path.join(process.cwd(), 'mock_db.json');
 
 // Initialize local mock JSON file if it doesn't exist
 function initLocalDb() {
   if (!fs.existsSync(MOCK_DB_PATH)) {
-    fs.writeFileSync(MOCK_DB_PATH, JSON.stringify([], null, 2), 'utf8');
+    const rootDbPath = path.join(process.cwd(), 'mock_db.json');
+    if (fs.existsSync(rootDbPath)) {
+      try {
+        const rootDbContent = fs.readFileSync(rootDbPath, 'utf8');
+        fs.writeFileSync(MOCK_DB_PATH, rootDbContent, 'utf8');
+      } catch (err) {
+        console.error('Failed to copy root mock_db.json to writable location, initializing empty:', err);
+        fs.writeFileSync(MOCK_DB_PATH, JSON.stringify([], null, 2), 'utf8');
+      }
+    } else {
+      fs.writeFileSync(MOCK_DB_PATH, JSON.stringify([], null, 2), 'utf8');
+    }
   }
 }
 
