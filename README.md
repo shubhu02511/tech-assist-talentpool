@@ -2,6 +2,8 @@
 
 This is an AI-powered **Talent Pool Search** web application built as a take-home assignment for the **Application Support Engineer** role at **Tech-Assist**. 
 
+🔗 **Live URL:** [https://master.daxb91yzeols.amplifyapp.com/](https://master.daxb91yzeols.amplifyapp.com/)
+
 It enables recruiters to upload multiple resumes, extracts text locally, scrubs PII via server-side Regex, uses Gemini AI to structure professional attributes, saves details to a database, and provides a search and filter directory.
 
 ---
