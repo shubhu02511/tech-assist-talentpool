@@ -12,8 +12,7 @@ export const GITHUB_REGEX = /(?:https?:\/\/)?(?:www\.)?github\.com\/[a-zA-Z0-9_-
 
 /**
  * Extracts candidate name from the raw resume text.
- * Usually, the name is one of the first non-empty lines, consisting of 2-3 capitalized words,
- * and doesn't contain keywords like "resume", "email", or numbers.
+ * Uses a multi-pass heuristic scanning lines and anchoring around email/phone details.
  */
 export function extractName(text: string): string {
   const lines = text
@@ -21,24 +20,59 @@ export function extractName(text: string): string {
     .map((line) => line.trim())
     .filter((line) => line.length > 0);
 
-  // Pass 1: Look for 2-4 capitalized words in the first 6 lines
-  for (let i = 0; i < Math.min(lines.length, 6); i++) {
+  if (lines.length === 0) {
+    return 'Candidate ' + Math.floor(1000 + Math.random() * 9000);
+  }
+
+  // Pass 1: Scan first 10 lines for 2-4 capitalized or all-caps words
+  for (let i = 0; i < Math.min(lines.length, 10); i++) {
     const line = lines[i];
     const words = line.split(/\s+/);
     
-    // Ignore lines that look like a header/label or contain numbers/symbols
     if (
       words.length >= 2 &&
       words.length <= 4 &&
-      words.every((w) => /^[A-Z][a-zA-Z'-]*$/.test(w)) &&
+      words.every((w) => /^[A-Z][a-zA-Z'-]*$|^[A-Z]+$/.test(w)) &&
       !/resume|cv|curriculum|profile|contact|portfolio|page|address|email|phone/i.test(line)
     ) {
       return line;
     }
   }
 
-  // Pass 2: Look for any line under 35 chars in the first 3 lines that has no digits or @
-  for (let i = 0; i < Math.min(lines.length, 3); i++) {
+  // Pass 2: Anchor Scan. Locate the email/phone contact block in the text.
+  // The name is typically the non-empty line directly above it.
+  let contactLineIndex = -1;
+  const emailRegexLocal = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/;
+  const phoneRegexLocal = /(?:\+?\d{1,3}[-.\s]?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}\b/;
+
+  for (let i = 0; i < lines.length; i++) {
+    if (emailRegexLocal.test(lines[i]) || phoneRegexLocal.test(lines[i])) {
+      contactLineIndex = i;
+      break;
+    }
+  }
+
+  if (contactLineIndex > 0) {
+    // Check up to 2 lines above the contact block
+    for (let offset = 1; offset <= 2; offset++) {
+      const idx = contactLineIndex - offset;
+      if (idx >= 0) {
+        const line = lines[idx];
+        const words = line.split(/\s+/);
+        if (
+          words.length >= 2 &&
+          words.length <= 4 &&
+          words.every((w) => /^[A-Z][a-zA-Z'-]*$|^[A-Z]+$/.test(w)) &&
+          !/resume|cv|curriculum|profile|contact|portfolio|page|address|email|phone/i.test(line)
+        ) {
+          return line;
+        }
+      }
+    }
+  }
+
+  // Pass 3: Fallback first short line in the first 5 lines (no digits, no @)
+  for (let i = 0; i < Math.min(lines.length, 5); i++) {
     const line = lines[i];
     if (
       line.length > 3 &&
