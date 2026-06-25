@@ -1,0 +1,557 @@
+[
+  {
+    "name": "Alex Rivera",
+    "email": "alex.rivera@gmail.com",
+    "phone": "+1 (415) 882-9901",
+    "linkedin_url": "linkedin.com/in/alex-rivera-dev",
+    "job_title": "Senior Software Engineer",
+    "location": "San Francisco",
+    "experience_years": 8,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "AWS",
+      "Docker"
+    ],
+    "scrubbed_text": "\n\nAlex Rivera\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nSenior Software Engineer\n - Based in San Francisco, CA (8 years Experience)\nPROFESSIONAL SKILLS\nReact, TypeScript, Node.js, Python, GraphQL, AWS, Docker, PostgreSQL, CI/CD\nWORK HISTORY\nLead Front End Engineer\n at Stripe (2022 - Present)\nDesigned and built modern dashboard interfaces using React and TypeScript. Managed a team of 4 frontend \nengineers. Improved rendering performance by 35% through code-splitting and memoization optimizations.\nSenior Software Engineer\n at Opendoor (2019 - 2022)\nBuilt and scaled core service APIs using Python and Node.js. Maintained robust CI/CD pipelines on AWS. \nManaged migration of monolithic database to microservice architecture.\nFull Stack Developer\n at SeedStage (2018 - 2019)\nImplemented initial web application product using React, Node.js, and Postgres. Set up local development \nworkflows and cloud hosting.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "b4e9eced-4d84-4a5b-8e11-3b850a103e15",
+    "created_at": "2026-06-25T14:02:00.129Z"
+  },
+  {
+    "name": "Ava Robinson",
+    "email": "ava.robinson@outlook.com",
+    "phone": "+1 (562) 555-6658",
+    "linkedin_url": "linkedin.com/in/ava",
+    "job_title": "Senior Software Engineer",
+    "location": "Boston",
+    "experience_years": 6,
+    "skills": [
+      "TypeScript",
+      "Java",
+      "SQL",
+      "AWS"
+    ],
+    "scrubbed_text": "\n\nAva Robinson\n[EMAIL] | [PHONE]\n[LINKEDIN].robinson\nSoftware Engineer\n - Based in Boston, MA (6 years Experience)\nPROFESSIONAL SKILLS\nJava, TypeScript, Spring, SQL, AWS\nWORK HISTORY\nSoftware Engineer\n at AvaTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Engineering. Streamlined pipeline structures \nby 21% over standard periods. Oversee cross-team collaborations.\nAssociate Engineer\n at OldCorp Inc (2020 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "44bcf287-edda-47b1-a514-0c0b16bfc258",
+    "created_at": "2026-06-25T14:02:00.135Z"
+  },
+  {
+    "name": "Ava Thompson",
+    "email": "ava.thompson@gmail.com",
+    "phone": "+1 (881) 555-7779",
+    "linkedin_url": "linkedin.com/in/ava",
+    "job_title": "Team Manager",
+    "location": "Seattle",
+    "experience_years": 5,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nAva Thompson\n[EMAIL] | [PHONE]\n[LINKEDIN].thompson | [GITHUB]\nSales Representative\n - Based in Seattle, WA (5 years Experience)\nPROFESSIONAL SKILLS\nNegotiation, CRM, Client Relations, B2B Sales, Salesforce, Lead Generation\nWORK HISTORY\nSales Representative\n at AvaTech Solutions (2024 - Present)\nLead development and operational execution of core client requests in Sales. Streamlined pipeline structures by \n29% over standard periods. Oversee cross-team collaborations.\nAssociate Representative\n at OldCorp Inc (2021 - 2024)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "c8de827f-d7a5-4874-872e-6bbee0bbde08",
+    "created_at": "2026-06-25T14:02:00.141Z"
+  },
+  {
+    "name": "Chloe Dubois",
+    "email": "chloe.dubois@salesforce-hustle.com",
+    "phone": "415-555-7732",
+    "linkedin_url": "linkedin.com/in/chloe-dubois-sales",
+    "job_title": "Senior Software Engineer",
+    "location": "Remote",
+    "experience_years": 11,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nChloe Dubois\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nEnterprise Sales Director\n - Based in Denver, CO (11 years Experience)\nPROFESSIONAL SKILLS\nSalesforce, Enterprise Software Deals, Negotiation, B2B Sales, Lead Generation, Revenue Strategy, Account \nRetention\nWORK HISTORY\nEnterprise Account Executive\n at Salesforce (2021 - Present)\nAchieved 140% of quota in 2023 and 2024. Closed $4M+ ARR in net-new accounts. Managed complex multi-\nstakeholder contract negotiations for Fortune 500 accounts.\nSenior Sales Representative\n at Slack Technologies (2017 - 2021)\nPioneered mid-market sales approaches in the central region. Expanded existing accounts ARR by 45% through \nupselling enterprise modules.\nB2B Sales Representative\n at Yelp (2015 - 2017)\nConducted high-volume outbound calls to local businesses. Consistent top 10% performer in monthly sales \ncompetitions.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "e735b5e2-65ae-40dc-8487-3fd50c0df06b",
+    "created_at": "2026-06-25T14:02:00.148Z"
+  },
+  {
+    "name": "Daniel Anderson",
+    "email": "daniel.anderson@outlook.com",
+    "phone": "+1 (698) 555-6535",
+    "linkedin_url": "linkedin.com/in/daniel",
+    "job_title": "Team Manager",
+    "location": "Remote",
+    "experience_years": 6,
+    "skills": [],
+    "scrubbed_text": "\n\nDaniel Anderson\n[EMAIL] | [PHONE]\n[LINKEDIN].anderson | [GITHUB]\nCustomer Experience Lead\n - Based in Remote (6 years Experience)\nPROFESSIONAL SKILLS\nExcel, SLA Monitoring, Logistics, Intercom, Customer Success\nWORK HISTORY\nCustomer Experience Lead\n at DanielTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Operations. Streamlined pipeline structures \nby 27% over standard periods. Oversee cross-team collaborations.\nAssociate Lead\n at OldCorp Inc (2020 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "e591b6db-90e9-47af-9f31-ea23ea326852",
+    "created_at": "2026-06-25T14:02:00.154Z"
+  },
+  {
+    "name": "Devon Miller",
+    "email": "devon.miller@techie.com",
+    "phone": "(512) 991-0021",
+    "linkedin_url": "linkedin.com/in/devon-miller",
+    "job_title": "Senior Software Engineer",
+    "location": "Austin",
+    "experience_years": 1.5,
+    "skills": [
+      "React",
+      "CSS",
+      "Git",
+      "JavaScript"
+    ],
+    "scrubbed_text": "\n\nDevon Miller\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nJunior Full Stack Engineer\n - Based in Austin, TX (1.5 years Experience)\nPROFESSIONAL SKILLS\nJavaScript, HTML5, CSS3, React.js, Ruby on Rails, PostgreSQL, Git, Bootstrap\nWORK HISTORY\nJunior Software Developer\n at WP Engine (2025 - Present)\nContributed to WordPress hosting plugin development. Assisted senior engineers in debugging and implementing \nnew web features.\nWeb Development Intern\n at Ace Digital Agency (2024 - 2024)\nBuilt and deployed landing pages for corporate clients. Customized responsive CSS layout templates.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "f9f830b4-8fbb-47ee-a61b-b4a3e8f93c85",
+    "created_at": "2026-06-25T14:02:00.159Z"
+  },
+  {
+    "name": "Elena Rostova",
+    "email": "elena.rost@supportpro.com",
+    "phone": "+49 176 9901882",
+    "linkedin_url": "linkedin.com/in/elena-rostova-ops",
+    "job_title": "Team Manager",
+    "location": "Berlin",
+    "experience_years": 6,
+    "skills": [
+      "Customer Support"
+    ],
+    "scrubbed_text": "\n\nElena Rostova\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nCustomer Support Manager\n - Based in Berlin, Germany (6 years Experience)\nPROFESSIONAL SKILLS\nZendesk, Intercom, Customer Experience, Team Management, Technical Troubleshooting, KPI Tracking, SLA \nEnforcement\nWORK HISTORY\nCustomer Support Team Lead\n at N26 (2023 - Present)\nSupervise a team of 15 support specialists. Redesigned routing rules in Zendesk, reducing median resolution time \nby 25%. Monitored team CSAT scores, maintaining a 94.8% approval rate.\nSenior Customer Support Agent\n at Contentful (2020 - 2023)\nHandled tier-2 technical API integrations support queries. Authored 30+ internal knowledge base articles to \nfacilitate agent onboarding.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "7e76ac50-bd34-4e00-8cd9-69784a68901d",
+    "created_at": "2026-06-25T14:02:00.163Z"
+  },
+  {
+    "name": "Emily Chen",
+    "email": "emily.chen@outlook.com",
+    "phone": "206-555-0198",
+    "linkedin_url": "linkedin.com/in/emily-chen-se",
+    "job_title": "Software Engineer",
+    "location": "Seattle",
+    "experience_years": 3,
+    "skills": [
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Git",
+      "Agile",
+      "Figma",
+      "JavaScript"
+    ],
+    "scrubbed_text": "\n\nEmily Chen\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nSoftware Engineer\n - Based in Seattle, WA (3 years Experience)\nPROFESSIONAL SKILLS\nJavaScript, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, Jest, Git\nWORK HISTORY\nSoftware Engineer I\n at Nordstrom Tech (2024 - Present)\nParticipate in development of e-commerce client interfaces using Next.js. Wrote over 100 unit and integration tests \nusing Jest and React Testing Library. Collaborated in daily agile standups and sprint planning.\nAssociate Frontend Developer\n at Zillow Group (2023 - 2024)\nMaintained UI component libraries. Worked closely with design teams to translate Figma wireframes into \naccessible and responsive HTML/CSS structures.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "f0c9cf8d-644a-4d1b-ba7d-1ccc2ddab2b2",
+    "created_at": "2026-06-25T14:02:00.167Z"
+  },
+  {
+    "name": "Emma Rodriguez",
+    "email": "emma.rodriguez@outlook.com",
+    "phone": "+1 (713) 555-3543",
+    "linkedin_url": "linkedin.com/in/emma",
+    "job_title": "Team Manager",
+    "location": "Seattle",
+    "experience_years": 5,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nEmma Rodriguez\n[EMAIL] | [PHONE]\n[LINKEDIN].rodriguez\nSales Representative\n - Based in Seattle, WA (5 years Experience)\nPROFESSIONAL SKILLS\nAccount Management, Negotiation, B2B Sales, Client Relations, Deal Closing, Lead Generation, Salesforce\nWORK HISTORY\nSales Representative\n at EmmaTech Solutions (2024 - Present)\nLead development and operational execution of core client requests in Sales. Streamlined pipeline structures by \n18% over standard periods. Oversee cross-team collaborations.\nAssociate Representative\n at OldCorp Inc (2021 - 2024)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "851b9c28-7052-49d5-a862-fd67c2bf7e79",
+    "created_at": "2026-06-25T14:02:00.172Z"
+  },
+  {
+    "name": "Grace Lewis",
+    "email": "grace.lewis@gmail.com",
+    "phone": "+1 (750) 555-4062",
+    "linkedin_url": "linkedin.com/in/grace",
+    "job_title": "UI/UX Designer",
+    "location": "Chicago",
+    "experience_years": 3,
+    "skills": [],
+    "scrubbed_text": "\n\nGrace Lewis\n[EMAIL] | [PHONE]\n[LINKEDIN].lewis | [GITHUB]\nUI/UX Designer\n - Based in Chicago, IL (3 years Experience)\nPROFESSIONAL SKILLS\nPrototyping, Wireframing, Photoshop, Illustrator, Sketch, Interaction Design\nWORK HISTORY\nUI/UX Designer\n at GraceTech Solutions (2025 - Present)\nLead development and operational execution of core client requests in Design. Streamlined pipeline structures by \n23% over standard periods. Oversee cross-team collaborations.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "0b4ec615-ed42-4523-b1bc-f399ed5945af",
+    "created_at": "2026-06-25T14:02:00.175Z"
+  },
+  {
+    "name": "Harper Clark",
+    "email": "harper.clark@gmail.com",
+    "phone": "+1 (336) 555-2017",
+    "linkedin_url": "linkedin.com/in/harper",
+    "job_title": "Team Manager",
+    "location": "San Francisco",
+    "experience_years": 8,
+    "skills": [],
+    "scrubbed_text": "\n\nHarper Clark\n[EMAIL] | [PHONE]\n[LINKEDIN].clark | [GITHUB]\nCustomer Experience Lead\n - Based in San Francisco, CA (8 years Experience)\nPROFESSIONAL SKILLS\nVendor Management, Customer Success, Process Optimization, Logistics, Excel\nWORK HISTORY\nCustomer Experience Lead\n at HarperTech Solutions (2022 - Present)\nLead development and operational execution of core client requests in Operations. Streamlined pipeline structures \nby 29% over standard periods. Oversee cross-team collaborations.\nAssociate Lead\n at OldCorp Inc (2018 - 2022)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "aaf6ad44-ac3a-45fd-847e-1fac641d687c",
+    "created_at": "2026-06-25T14:02:00.180Z"
+  },
+  {
+    "name": "Harper White",
+    "email": "harper.white@gmail.com",
+    "phone": "+1 (751) 555-3279",
+    "linkedin_url": "linkedin.com/in/harper",
+    "job_title": "UI/UX Designer",
+    "location": "San Francisco",
+    "experience_years": 7,
+    "skills": [],
+    "scrubbed_text": "\n\nHarper White\n[EMAIL] | [PHONE]\n[LINKEDIN].white | [GITHUB]\nLead Product Designer\n - Based in San Francisco, CA (7 years Experience)\nPROFESSIONAL SKILLS\nDesign Systems, UX Research, Prototyping, Wireframing, UI Design, Illustrator\nWORK HISTORY\nLead Product Designer\n at HarperTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Design. Streamlined pipeline structures by \n25% over standard periods. Oversee cross-team collaborations.\nAssociate Designer\n at OldCorp Inc (2019 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "99ae8af0-3195-4979-a613-c13ed0aa0dd6",
+    "created_at": "2026-06-25T14:02:00.185Z"
+  },
+  {
+    "name": "Isabella Harris",
+    "email": "isabella.harris@outlook.com",
+    "phone": "+1 (221) 555-3677",
+    "linkedin_url": "linkedin.com/in/isabella",
+    "job_title": "Team Manager",
+    "location": "Remote",
+    "experience_years": 9,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nIsabella Harris\n[EMAIL] | [PHONE]\n[LINKEDIN].harris\nAccount Director\n - Based in Remote (9 years Experience)\nPROFESSIONAL SKILLS\nLead Generation, Negotiation, CRM, Account Management, Deal Closing, B2B Sales, Client Relations\nWORK HISTORY\nAccount Director\n at IsabellaTech Solutions (2022 - Present)\nLead development and operational execution of core client requests in Sales. Streamlined pipeline structures by \n19% over standard periods. Oversee cross-team collaborations.\nAssociate Director\n at OldCorp Inc (2017 - 2022)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "4c9c2dae-9136-49b7-87ae-4c854facdad2",
+    "created_at": "2026-06-25T14:02:00.188Z"
+  },
+  {
+    "name": "Jacob Taylor",
+    "email": "jacob.taylor@gmail.com",
+    "phone": "+1 (502) 555-8739",
+    "linkedin_url": "linkedin.com/in/jacob",
+    "job_title": "Team Manager",
+    "location": "Austin",
+    "experience_years": 6,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nJacob Taylor\n[EMAIL] | [PHONE]\n[LINKEDIN].taylor | [GITHUB]\nAccount Director\n - Based in Austin, TX (6 years Experience)\nPROFESSIONAL SKILLS\nDeal Closing, Lead Generation, B2B Sales, Client Relations, Salesforce, Cold Calling, Negotiation, Account \nManagement\nWORK HISTORY\nAccount Director\n at JacobTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Sales. Streamlined pipeline structures by \n10% over standard periods. Oversee cross-team collaborations.\nAssociate Director\n at OldCorp Inc (2020 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "12177788-252a-486b-8745-73b75605e848",
+    "created_at": "2026-06-25T14:02:00.190Z"
+  },
+  {
+    "name": "Jacob White",
+    "email": "jacob.white@gmail.com",
+    "phone": "+1 (243) 555-2854",
+    "linkedin_url": "linkedin.com/in/jacob",
+    "job_title": "UI/UX Designer",
+    "location": "Seattle",
+    "experience_years": 12,
+    "skills": [
+      "Figma"
+    ],
+    "scrubbed_text": "\n\nJacob White\n[EMAIL] | [PHONE]\n[LINKEDIN].white\nLead Product Designer\n - Based in Seattle, WA (12 years Experience)\nPROFESSIONAL SKILLS\nWireframing, Photoshop, Design Systems, Sketch, Prototyping, UI Design, Figma, Illustrator\nWORK HISTORY\nLead Product Designer\n at JacobTech Solutions (2020 - Present)\nLead development and operational execution of core client requests in Design. Streamlined pipeline structures by \n28% over standard periods. Oversee cross-team collaborations.\nAssociate Designer\n at OldCorp Inc (2014 - 2020)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "d2fd73b4-e51b-4f21-b00d-5ff2ad333745",
+    "created_at": "2026-06-25T14:02:00.193Z"
+  },
+  {
+    "name": "James Cooper",
+    "email": "james.cooper@partnerships.net",
+    "phone": "720-555-9018",
+    "linkedin_url": "linkedin.com/in/james-cooper-accounts",
+    "job_title": "Product Manager",
+    "location": "Austin",
+    "experience_years": 4,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nJames Cooper\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nAccount Manager\n - Based in Austin, TX (4 years Experience)\nPROFESSIONAL SKILLS\nCustomer Relationship Management, Account Retention, Upselling, Presentations, HubSpot, Contract Renewals, \nProject Scoping\nWORK HISTORY\nCustomer Success Account Manager\n at Atlassian (2023 - Present)\nManage portfolio of 60+ mid-market corporate clients representing $1.8M ARR. Maintained customer retention rate \nof 97.4%.\nAccount Executive\n at Miro (2022 - 2023)\nConducted product demonstrations for incoming leads. Managed trial onboarding workflows for corporate \nworkspaces.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "9977a1db-6aab-44fa-8a31-3fe3e9cac493",
+    "created_at": "2026-06-25T14:02:00.197Z"
+  },
+  {
+    "name": "Liam O'Connor",
+    "email": "liam.oconnor@protonmail.com",
+    "phone": null,
+    "linkedin_url": "linkedin.com/in/liam-oconnor-backend",
+    "job_title": "Senior Software Engineer",
+    "location": "Remote",
+    "experience_years": 10,
+    "skills": [
+      "Java",
+      "SQL",
+      "Docker",
+      "Kubernetes",
+      "Go"
+    ],
+    "scrubbed_text": "\n\nLiam O'Connor\n[EMAIL] | +353 87 123 4567\n[LINKEDIN] | [GITHUB]\nSenior Backend Developer\n - Based in Remote (10 years Experience)\nPROFESSIONAL SKILLS\nGo, Kubernetes, Docker, gRPC, Redis, Kafka, MySQL, Google Cloud Platform, Microservices\nWORK HISTORY\nStaff Backend Architect\n at Shopify (2021 - Present)\nDesigned distributed transaction services in Go handling over 50k requests per second. Set up message queues \nvia Kafka. Orchestrated Kubernetes clusters on GCP.\nSenior Software Engineer\n at Workday (2017 - 2021)\nDeveloped enterprise API structures using Java and Spring Boot. Guided the team's microservices migration \nproject.\nSoftware Developer\n at Decave Inc (2016 - 2017)\nMaintained SQL database schemas, optimized slow querying profiles, and built server routing logic.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "58690263-d51e-4934-a6a3-33803b4cd328",
+    "created_at": "2026-06-25T14:02:00.201Z"
+  },
+  {
+    "name": "Lucas Garcia",
+    "email": "lucas.garcia@gmail.com",
+    "phone": "+1 (808) 555-4686",
+    "linkedin_url": "linkedin.com/in/lucas",
+    "job_title": "Team Manager",
+    "location": "Boston",
+    "experience_years": 2,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nLucas Garcia\n[EMAIL] | [PHONE]\n[LINKEDIN].garcia | [GITHUB]\nSales Representative\n - Based in Boston, MA (2 years Experience)\nPROFESSIONAL SKILLS\nSalesforce, B2B Sales, Cold Calling, Lead Generation, HubSpot\nWORK HISTORY\nSales Representative\n at LucasTech Solutions (2025 - Present)\nLead development and operational execution of core client requests in Sales. Streamlined pipeline structures by \n13% over standard periods. Oversee cross-team collaborations.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "112ad578-a60a-41e3-b0fd-ae95f3bd649e",
+    "created_at": "2026-06-25T14:02:00.207Z"
+  },
+  {
+    "name": "Marcus Vance",
+    "email": "marcus.vance@visuals.com",
+    "phone": "312-555-8819",
+    "linkedin_url": "linkedin.com/in/marcus-vance-visuals",
+    "job_title": "UI/UX Designer",
+    "location": "Chicago",
+    "experience_years": 4,
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma",
+      "Analytics"
+    ],
+    "scrubbed_text": "\n\nMarcus Vance\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nProduct Designer\n - Based in Chicago, IL (4 years Experience)\nPROFESSIONAL SKILLS\nFigma, Sketch, Interaction Design, User Flow Diagrams, HTML, CSS, Responsive Design, Illustrator\nWORK HISTORY\nUI/UX Designer\n at Groupon (2023 - Present)\nDesigned consumer mobile application flows. Restructured checkout screen configurations, reducing cart \nabandonment rate by 12%.\nJunior UX Designer\n at Sprout Social (2022 - 2023)\nCollaborated on social analytics dashboard designs. Built comprehensive wireframes and site maps.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "2c8cca16-ab61-43b6-9245-0d850bc122c2",
+    "created_at": "2026-06-25T14:02:00.212Z"
+  },
+  {
+    "name": "Mason Jackson",
+    "email": "mason.jackson@outlook.com",
+    "phone": "+1 (503) 555-2930",
+    "linkedin_url": "linkedin.com/in/mason",
+    "job_title": "Senior Software Engineer",
+    "location": "London",
+    "experience_years": 7,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Java",
+      "AWS",
+      "Kubernetes"
+    ],
+    "scrubbed_text": "\n\nMason Jackson\n[EMAIL] | [PHONE]\n[LINKEDIN].jackson\nSenior Software Engineer\n - Based in London, UK (7 years Experience)\nPROFESSIONAL SKILLS\nJava, React, MongoDB, AWS, Angular, Spring, Kubernetes, TypeScript\nWORK HISTORY\nSenior Software Engineer\n at MasonTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Engineering. Streamlined pipeline structures \nby 21% over standard periods. Oversee cross-team collaborations.\nAssociate Engineer\n at OldCorp Inc (2019 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "642fa81a-b8b2-49a2-a3ec-ae711bbeb7ad",
+    "created_at": "2026-06-25T14:02:00.215Z"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@acme.com",
+    "phone": "212-555-4039",
+    "linkedin_url": "linkedin.com/in/sarah-jenkins-pm",
+    "job_title": "Senior Software Engineer",
+    "location": "Boston",
+    "experience_years": 9,
+    "skills": [
+      "SQL",
+      "Agile",
+      "Analytics"
+    ],
+    "scrubbed_text": "\n\nSarah Jenkins\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nSenior Product Manager\n - Based in Boston, MA (9 years Experience)\nPROFESSIONAL SKILLS\nProduct Roadmap, Agile/Scrum, Jira, SQL, Amplitude, User Analytics, Market Research, Cross-Functional \nLeadership\nWORK HISTORY\nLead Product Manager\n at HubSpot (2021 - Present)\nOwn product roadmap for customer onboarding services. Scaled active monthly users from 1M to 3M. Led a cross-\nfunctional squad of 10 engineers, 2 designers, and 2 marketers.\nProduct Manager\n at Wayfair (2018 - 2021)\nManaged checkout funnel features. Executed 30+ A/B tests yielding over $2.5M in incremental revenue. Wrote \ncomprehensive PRDs and user stories.\nProduct Owner\n at LogMeIn (2017 - 2018)\nWorked with developer squads to prioritize product backlogs. Handled release schedules and product \ndocumentation.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "c5770f14-54b2-41b3-86a4-82fdb134ad73",
+    "created_at": "2026-06-25T14:02:00.218Z"
+  },
+  {
+    "name": "Sofia Rodriguez",
+    "email": "sofia.rod@designstudio.io",
+    "phone": "650-339-4402",
+    "linkedin_url": "linkedin.com/in/sofia-rodriguez-design",
+    "job_title": "Senior Software Engineer",
+    "location": "New York",
+    "experience_years": 7,
+    "skills": [
+      "Marketing",
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "scrubbed_text": "\n\nSofia Rodriguez\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nSenior UI/UX Designer\n - Based in New York, NY (7 years Experience)\nPROFESSIONAL SKILLS\nFigma, Adobe Creative Suite, Wireframing, User Research, Prototyping, Design Systems, HTML/CSS, Usability \nTesting\nWORK HISTORY\nPrincipal Product Designer\n at Squarespace (2023 - Present)\nLed design systems redesign utilized by 20+ cross-functional teams. Conducted 40+ user interviews to identify \nusability gaps, leading to a 20% conversion rate increase.\nSenior UX Designer\n at InVision (2020 - 2023)\nCreated high-fidelity prototypes for mobile and web products. Worked alongside frontend engineers to verify layout \nconsistency.\nProduct Designer\n at CreativeCorp (2019 - 2020)\nDesigned client websites and digital marketing layouts. Iterated design assets based on user testing telemetry.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "1c84e0b4-d197-4f79-89de-4c2f45e15f97",
+    "created_at": "2026-06-25T14:02:00.222Z"
+  },
+  {
+    "name": "Sophia Clark",
+    "email": "sophia.clark@outlook.com",
+    "phone": "+1 (536) 555-8879",
+    "linkedin_url": "linkedin.com/in/sophia",
+    "job_title": "Senior Software Engineer",
+    "location": "Austin",
+    "experience_years": 7,
+    "skills": [
+      "React",
+      "Python",
+      "Docker",
+      "C#"
+    ],
+    "scrubbed_text": "\n\nSophia Clark\n[EMAIL] | [PHONE]\n[LINKEDIN].clark\nSenior Software Engineer\n - Based in Austin, TX (7 years Experience)\nPROFESSIONAL SKILLS\nMongoDB, C#, Angular, Vue, React, Docker, Python\nWORK HISTORY\nSenior Software Engineer\n at SophiaTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Engineering. Streamlined pipeline structures \nby 12% over standard periods. Oversee cross-team collaborations.\nAssociate Engineer\n at OldCorp Inc (2019 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "a1af3be9-67a4-4af3-ae20-5a19f8e3b8c7",
+    "created_at": "2026-06-25T14:02:00.225Z"
+  },
+  {
+    "name": "Sophia Jackson",
+    "email": "sophia.jackson@gmail.com",
+    "phone": "+1 (632) 555-2291",
+    "linkedin_url": "linkedin.com/in/sophia",
+    "job_title": "Senior Software Engineer",
+    "location": "Seattle",
+    "experience_years": 6,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Java",
+      "C++"
+    ],
+    "scrubbed_text": "\n\nSophia Jackson\n[EMAIL] | [PHONE]\n[LINKEDIN].jackson | [GITHUB]\nSoftware Engineer\n - Based in Seattle, WA (6 years Experience)\nPROFESSIONAL SKILLS\nC++, Java, Angular, TypeScript, React\nWORK HISTORY\nSoftware Engineer\n at SophiaTech Solutions (2023 - Present)\nLead development and operational execution of core client requests in Engineering. Streamlined pipeline structures \nby 14% over standard periods. Oversee cross-team collaborations.\nAssociate Engineer\n at OldCorp Inc (2020 - 2023)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "e2b22c0e-6039-420e-a35f-94b1dac2f7fd",
+    "created_at": "2026-06-25T14:02:00.228Z"
+  },
+  {
+    "name": "Sophia Lewis",
+    "email": "sophia.lewis@gmail.com",
+    "phone": "+1 (791) 555-2902",
+    "linkedin_url": "linkedin.com/in/sophia",
+    "job_title": "Team Manager",
+    "location": "Toronto",
+    "experience_years": 8,
+    "skills": [
+      "Sales"
+    ],
+    "scrubbed_text": "\n\nSophia Lewis\n[EMAIL] | [PHONE]\n[LINKEDIN].lewis | [GITHUB]\nAccount Director\n - Based in Toronto, ON (8 years Experience)\nPROFESSIONAL SKILLS\nLead Generation, Negotiation, Salesforce, Cold Calling, Client Relations, HubSpot, Deal Closing\nWORK HISTORY\nAccount Director\n at SophiaTech Solutions (2022 - Present)\nLead development and operational execution of core client requests in Sales. Streamlined pipeline structures by \n25% over standard periods. Oversee cross-team collaborations.\nAssociate Director\n at OldCorp Inc (2018 - 2022)\nHandled support, design, and coordination features. Conducted daily scrum workflows and maintained client \nsatisfaction metrics above 95%.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "abbcfa64-3ef0-4ad1-9ef9-3019f142ce13",
+    "created_at": "2026-06-25T14:02:00.232Z"
+  },
+  {
+    "name": "Sophia White",
+    "email": "sophia.white@gmail.com",
+    "phone": "+1 (239) 555-4864",
+    "linkedin_url": "linkedin.com/in/sophia",
+    "job_title": "Product Manager",
+    "location": "Remote",
+    "experience_years": 3,
+    "skills": [
+      "SQL",
+      "Agile"
+    ],
+    "scrubbed_text": "\n\nSophia White\n[EMAIL] | [PHONE]\n[LINKEDIN].white | [GITHUB]\nProject Coordinator\n - Based in Denver, CO (3 years Experience)\nPROFESSIONAL SKILLS\nProduct Strategy, SQL, Budget Planning, Agile, KPI Metrics, Market Research\nWORK HISTORY\nProject Coordinator\n at SophiaTech Solutions (2025 - Present)\nLead development and operational execution of core client requests in Management. Streamlined pipeline \nstructures by 23% over standard periods. Oversee cross-team collaborations.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "5076db43-9b33-48d6-b9fd-a0f28ebdee60",
+    "created_at": "2026-06-25T14:02:00.235Z"
+  },
+  {
+    "name": "Tyler Jenkins",
+    "email": "tyler.j@operations.org",
+    "phone": "617-555-0103",
+    "linkedin_url": "linkedin.com/in/tyler-jenkins-ops",
+    "job_title": "Professional",
+    "location": "Boston",
+    "experience_years": 3,
+    "skills": [],
+    "scrubbed_text": "\n\nTyler Jenkins\n[EMAIL] | [PHONE]\n[LINKEDIN] | [GITHUB]\nOperations Specialist\n - Based in Boston, MA (3 years Experience)\nPROFESSIONAL SKILLS\nLogistics, Process Optimization, Vendor Management, Excel, Data Analysis, Project Tracking, Supply Chain\nWORK HISTORY\nOperations Coordinator\n at Toast Tab (2024 - Present)\nStreamlined hardware supply chain delivery pipelines, cutting dispatch overhead cost by 8%. Standardized supplier \nvendor review protocols.\nOperations Associate\n at Amazon Logistics (2023 - 2024)\nAudited warehouse performance metrics and coordinated local carrier scheduling. Resolving delivery logistics \nexception blocks.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "26e3af11-d79e-4a37-bd63-75dfcda32340",
+    "created_at": "2026-06-25T14:02:00.238Z"
+  },
+  {
+    "name": "Vikram Naidu",
+    "email": "v.naidu@enterprise.org",
+    "phone": null,
+    "linkedin_url": "linkedin.com/in/vikram-naidu-pm",
+    "job_title": "Software Engineer",
+    "location": "Mumbai",
+    "experience_years": 5,
+    "skills": [
+      "Agile"
+    ],
+    "scrubbed_text": "\n\nVikram Naidu\n[EMAIL] | +91 98110 54321\n[LINKEDIN] | [GITHUB]\nProject Manager\n - Based in Mumbai, India (5 years Experience)\nPROFESSIONAL SKILLS\nScrum Master, Jira, MS Project, Risk Management, Budgeting, Agile Methodologies, Resource Allocation, \nStakeholder Management\nWORK HISTORY\nIT Project Manager\n at Tata Consultancy Services (2023 - Present)\nCoordinate software delivery timelines for major European retail clients. Managed annual project budgets \nexceeding $1.2M. Achieved 98% on-time milestone delivery metrics.\nScrum Master\n at Wipro (2021 - 2023)\nFacilitated sprint planning, retrospectives, and standups for 3 distributed development teams. Removed blocker \ndependencies and tracked team velocity.\nEDUCATION\nBachelor of Science / Business Administration\nState University - Graduation Year 2018",
+    "resume_url": null,
+    "id": "70202aa6-607f-46c7-ad69-2df7a1907f64",
+    "created_at": "2026-06-25T14:02:00.241Z"
+  },
+  {
+    "name": "Greater Noida Institute Of",
+    "email": "siddhantsharma4uonly@gmail.com",
+    "phone": "+91 7011170597",
+    "linkedin_url": null,
+    "job_title": "Senior Software Engineer",
+    "location": "Remote",
+    "experience_years": 20,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "AWS",
+      "Git",
+      "C++",
+      "JavaScript",
+      "Communication"
+    ],
+    "scrubbed_text": "\n\nDeveloped a full-stack web application using Next.js and JavaScript\nIntegrated authentication system for secure user login and session management\nDeployed with an active database connection for dynamic data handling\nB. TECH [computer science engineering ]\n2022-\n2026\nGreater Noida Institute Of\nTechnology,Greater Noida\nCGPA:8.4 (Till\n5th Semester)\nCBSE (Class XII) 2021RPVVS,D-Block,Delhi 87.6%\nCBSE (Class X) 2019RPVVS,D-Block,Delhi 87% \nSIDDHANT SHARMA\nMale |20 Years |[PHONE] |  [EMAIL]\nLinkedin | Github\nAI-Powered Sign Language to Text Converter   Github\nImage Dehazing Using Deep Learning\nDeveloped an AI-based tool that translates sign language gestures into text using computer vision.\nUtilized Python, OpenCV, and TensorFlow for gesture recognition and real-time processing.\nAimed to improve accessibility for the hearing and speech-impaired community.\nImplemented a deep learning model to remove haze from images and improve visibility.\nUsed Convolutional Neural Networks (CNNs) trained on hazy and clear image datasets.\nApplied OpenCV and TensorFlow to enhance image quality for better object recognition.\nRESUMATE-AI             Github\nACADEMIC ACHIEVEMENTS AND AWARDS \nSecured 2nd Rank in CodingMania at IIT Delhi Hackathon.\n Highest CGPA achiever in 3 and 5  semester.\nrdth\n Solved 300+ DSA problems on platforms like LeetCode, CodeChef, and GFG.\nWon the Patron Award in school for achieving above 90% till Class 11.\nEXTRA-CURRICULAR ACTIVITIES\n Participated in Smart India Hackathon (SIH) & TCS CodeVita – Gained experience in problem-solving and team-\nbased innovation.\n Participated in multiple hackathons at college and national levels, gaining hands-on project experience.\n Mentor & Group Leader in all semester projects – Led team discussions, code structuring, and implementation.\n Active participant in CodeChef Long Challenge & LeetCode contests.\nPROFICIENCY SKILLS \nProgramming Languages –C, C++, Python\nWeb Development – HTML, CSS, JavaScript/Typescript, MERN, Next.js, SQL,Mongodb\nData Structures & Algorithms – Strong problem-solving skills \nVersion Control & Collaboration – Git, GitHub\nTools & Platforms –Neon,prisma,Vercel,aws,Inngest\nTeamwork, Leadership, Communication, Critical Thinking, Time Management, Adaptability, Quick Learner,\nEDUCATION\nACEDMIC PROJECTS\nDEVMEET                        Gihub\nBuilt DevMeet — a real‑time collaborative coding and video call platform using React, Next.js, and Tailwind.\nIntegrated Liveblocks and WebRTC for seamless multi‑user coding and video collaboration.\nDeveloped secure authentication, room management, and a responsive, user‑friendly interface.",
+    "resume_url": null,
+    "id": "bef6d47d-f33f-46ee-8897-55878280abec",
+    "created_at": "2026-06-25T14:02:34.225Z"
+  },
+  {
+    "name": "SHUBHAM CHAURASIYA",
+    "email": "shubhamchaurasiya095@gmail.com",
+    "phone": "+91-7752993275",
+    "linkedin_url": null,
+    "job_title": "Senior Software Engineer",
+    "location": "Remote",
+    "experience_years": 6,
+    "skills": [
+      "React",
+      "Node.js",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Agile",
+      "C++",
+      "JavaScript",
+      "Communication"
+    ],
+    "scrubbed_text": "\n\nSHUBHAM CHAURASIYA\nÓ\n[PHONE]\nR\n[EMAIL]\n°\nLinkedin\n\nGithub\nEDUCATION\nGreater Noida Institute Of Technology, Greater Noida2022 – 2026\nB.Tech [Computer Science Engineering] -CGPA-7.5Greater Noida , India\nSt.Joseph English School2021 – 2022\nSenior Secondary - (CBSE) -Percentage-80Azamgarh,India\nSt.Joseph English School2019 – 2020\nHigh SCHOOL - (CBSE) -Percentage-91Azamgarh,India\nSKILLS\nProgramming Languages- C, C++, Python\nWeb Development- HTML, CSS, JavaScript, Next.js, SQL,Mongodb\nData Structures Algorithms- Strong problem-solving skills\nVersion Control Collaboration- Git, GitHub\nDevOps Tools Concepts-Linux, Networking Basics, Docker, Kubernetes, Jenkins,CI/CD Pipelines\nPlatforms- MySQL, Vercel, AWS, vscode, Canva\nTeamwork, Leadership, Communication, Critical Thinking, Time Management, Adaptability, Agile\nlearner\nPROJECTS\nWomen Safety Portal (ONETAP)\nW\n|CSS, Node.js, Express.js\n•\nBuilt a safety platform with one-tap SOS alerts, real-time location sharing, and automated email/SMS\nnotifications to emergency contacts.  Improved response time and user trust through secure Firebase\nauthentication and live status updates.\nAccessibility Analyzer (WebChecker)\nW\n|HTML, CSS, JavaScript,React.js, C++\n•\nCreated a web auditing tool that scans websites for SEO/accessibility issues, including tag misuse and broken\nstructure.  Provided issue summaries with recommended fixes and visualized results through interactive charts\nfor better decision-making.\nScalable Chat Box\nW\n|Node.js, Socket.io, Redis Pub/Sub, Express.js, HTML, CSS, JavaScript\n•\nDesigned a real-time chat system supporting multi-server message broadcasting using Redis Pub/Sub.  Enabled\nlow-latency, topic-based communication across distributed servers and local hosts, improving scalability and\nreliability.\nACADEMIC ACHIEVEMENTS\n•\nSolved 200+ DSA problems on platfoms like LeetCode.\n•\nParticipated in coding contests and hackathons conducted by college or platforms like HackerRank /\nCodeChef\n•\nTech Workshops/Webinars:Attended sessions on Web Dev / AI / Cybersecurity/Python with IOT.\nEXTRACURRICULAR\n•\nBuilt and showcased side projects during tech fests and internal college exhibitions.\n•\nContributed to open-source projects on GitHub, improving version control and collaboration skills.\n•\nParticipated in college-level technical and cultural fests.\n•\nMember of college coding club / tech community .\nCERTIFICATIONS\n•\nMastering Data Structures  Algorithms using C and C++\n•\nAWS Multi-Tier VPC Architecture\n•\nGoogle Ads for Beginners\n•\nStrategy Consulting Job Simulation by Accenture\n•\nAWS S3 Basics\n•\nIntroduction to Machine Learning by NPTEL",
+    "resume_url": null,
+    "id": "3d10465c-1a31-46f1-b592-e24f31deb7e1",
+    "created_at": "2026-06-25T14:03:03.998Z"
+  },
+  {
+    "name": "Samriddhi Singh",
+    "email": "ssamriddhi535@gmail.com",
+    "phone": "+91-7905676996",
+    "linkedin_url": "linkedin.com/in/samriddhi-singh",
+    "job_title": "Senior Software Engineer",
+    "location": "Remote",
+    "experience_years": 6,
+    "skills": [
+      "Python",
+      "SQL",
+      "HTML",
+      "C++",
+      "Communication",
+      "Analytics"
+    ],
+    "scrubbed_text": "\n\nSamriddhi Singh\nGreater Noida, Uttar Pradesh, India\n[EMAIL]   —   [PHONE]   —   [LINKEDIN]\nEducation\nGreater Noida Institute of Technology (GNIOT), AKTU2022 – 2026\nB.Tech in Computer Science Engineering (Designs)Greater Noida, India\nCBSE Senior Secondary (Class XII)2021 – 2022\nUttar Pradesh, India\nSkills\n•Python, C, C++, HTML, SQL\n•Jupyter Notebook, VS Code\n•Tableau, Power BI\n•MySQL Workbench, MS Excel\n•Pandas, Matplotlib\n•Data Cleaning & Visualization\n•Technical Reporting\n•Team Collaboration\n•Leadership & Communication\n•Presentation Skills\nExperience\nData Analyst Intern – Worxpertise2024 – 2025\n•Worked on data cleaning, visualization, and reporting using Python and Excel.\n•Assisted in dashboard creation and business insight reporting.\nData Analyst – One Point One Solutions2025 – Present\n•Currently handling reporting, visualization, and data analysis tasks.\n•Working with Excel, SQL, and Power BI for business insights.\nProjects\nAI-Based Text Similarity Detection\nPython, NLP, Neural Networks, MySQL\n•Developed NLP pipeline to compare 5,000+ text pairs.\n•Achieved 91% model accuracy with optimized inference.\n•Published research in IRJCS with 200+ downloads.\nPredictive Analysis of Student Performance\nPython, Scikit-learn, Pandas, Matplotlib\n•Built regression model using data from 100+ students.\n•Achieved 87% prediction accuracy using engagement metrics.\n•Created dashboards for academic trend analysis.\nAchievements\n•Published research paper in IRJCS on AI-NLP-based text similarity.\n•Completed 5+ machine learning projects.\n•Secured 2nd place in university-wide project showcase.\n•Ranked among top 15% in technical coursework.\nExtracurricular Activities\n•Participated in national-level hackathons and technical competitions.\n•Organized tech fest attended by students from multiple colleges.\n•Conducted workshops on Python and Data Science.\n•Mentored juniors on analytics and ML projects.",
+    "resume_url": null,
+    "id": "ab5c7233-b398-4340-a5a8-9033628381c9",
+    "created_at": "2026-06-25T14:03:23.371Z"
+  }
+]

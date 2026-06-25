@@ -41,5 +41,4 @@ yarn-error.log*
 next-env.d.ts
 
 # local databases and test data
-mock_db.json
 test_resumes/
